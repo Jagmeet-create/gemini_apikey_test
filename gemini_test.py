@@ -1,6 +1,5 @@
 from google import genai
 
-client = genai.Client(api_key="AIzaSyC1NMaBZpP_rdS3AWnMsSx7CBO6vR6RHZs")
 client = genai.Client(api_key="your api key")
 
 while(True):
